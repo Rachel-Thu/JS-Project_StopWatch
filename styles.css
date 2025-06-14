@@ -1,0 +1,34 @@
+body {
+    background-color: lightblue;
+}
+
+.container {
+    text-align: center;
+    margin: 100px;
+}
+
+button {
+    width: 70px;
+    height: 35px;
+    margin: 10px;
+    border: 0;
+    color: white;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+button:active {
+    opacity: 0.5;
+}
+ 
+.start {
+    background-color: #f5adb8;
+}
+
+.stop {
+    background-color: #f7b2f7;
+}
+
+.reset {
+    background-color: #c9a2fc;
+}
